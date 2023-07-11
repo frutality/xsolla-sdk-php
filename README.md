@@ -1,3 +1,7 @@
+# Fork note
+
+This fork is indented for support of PHP 8.1+. Only Paystation API is tested. Phpunit tests are not maintained.
+
 # [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/) DEPRECATED Xsolla SDK for PHP
 
 [![Latest Stable Version](https://poser.pugx.org/xsolla/xsolla-sdk-php/v/stable.png)](https://packagist.org/packages/xsolla/xsolla-sdk-php)
@@ -52,7 +56,7 @@ The recommended way to install Xsolla SDK for PHP is through [Composer](http://g
 
 ``` bash
 $ cd /path/to/your/project
-$ composer require xsolla/xsolla-sdk-php
+$ composer require frutality/xsolla-sdk-php
 ```
 
 After installing, you need to require Composer's autoloader:
