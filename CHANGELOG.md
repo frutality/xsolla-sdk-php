@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
-## [Unreleased](https://github.com/frutality/xsolla-sdk-php/compare/v4.3.0...master)
+## [Unreleased](https://github.com/frutality/xsolla-sdk-php/compare/v4.3.1...master)
+
+## [v4.3.1](https://github.com/frutality/xsolla-sdk-php/compare/v4.3.0...v4.3.1) - 2023-08-31
+### Fixed
+* Fixed error related to deprecated GuzzleHttp\Psr7\str function
 
 ## [v4.3.0](https://github.com/frutality/xsolla-sdk-php/compare/v4.2.0...v4.3.0) - 2023-07-11
 ### Added
